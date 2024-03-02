@@ -1,2 +1,2 @@
-# gogle_clone-
+# google_clone-
 using html,css,java script
